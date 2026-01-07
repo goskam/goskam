@@ -5,8 +5,7 @@ A mobile app for yoga studios. It allows users to book classes, watch yoga video
 ## 🧘‍♂️ Live Demo
 View a demo of the app here:  
 
-<iframe width="360" height="640" src="https://www.youtube.com/watch?v=QVjWodDEp6w" frameborder="0" allowfullscreen></iframe>
-
+[![Live Demo](https://img.youtube.com/vi/QVjWodDEp6w/0.jpg)](https://www.youtube.com/watch?v=QVjWodDEp6w)
 
 ## Key Features:
 - 📅 **Class Schedule**: See upcoming yoga sessions.
