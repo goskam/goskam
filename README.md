@@ -4,7 +4,9 @@ A mobile app for yoga studios. It allows users to book classes, watch yoga video
 
 ## 🧘‍♂️ Live Demo
 View a demo of the app here:  
-👉 [Live Demo](https://goskam.github.io) (old version, to be updated)
+
+<iframe width="360" height="640" src="https://www.youtube.com/watch?v=QVjWodDEp6w" frameborder="0" allowfullscreen></iframe>
+
 
 ## Key Features:
 - 📅 **Class Schedule**: See upcoming yoga sessions.
