@@ -16,7 +16,7 @@ View a demo of the app here:
 - 💬 **Forum**: Engage with the yoga community.
 
 ## 🛠️ Technologies:
-- **React Native** – Cross-platform mobile development
+- **React Native** - Cross-platform mobile development
 - **Firebase**: Real-time database, **Authentication**, and cloud functions.
 
 
